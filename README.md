@@ -10,7 +10,7 @@
 
 ## 🛠 Установка и запуск
 1. Убедитесь, что у вас установлен [Rust](https://rustup.rs/).
-2. Скачайте проект: `git clone https://github.com/ВашНик/kuzya-intelligence-db`
+2. Скачайте проект: `git clone https://github.com/WTRNDS666/kuzya-intelligence-db`
 3. Зайдите в папку: `cd kuzya-intelligence-db`
 4. Запустите: `cargo run`
 

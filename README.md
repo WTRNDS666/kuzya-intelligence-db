@@ -1,2 +1,7 @@
 # kuzya-intelligence-db
-A high-security encrypted storage system written in Rust, utilizing AES-256-GCM for mission-critical data protection.
+
+Kuzya-Intelligence-DB — это высокопроизводительная, зашифрованная база данных на языке Rust, разработанная для обеспечения безопасности критически важной информации об уровне скверны подозреваемых. Использует стандарт AES-256-GCM для защиты данных.
+
+Запуск: cargo run
+Добавление еретика: cargo run -- add
+Помилование еретика: cargo run -- del
